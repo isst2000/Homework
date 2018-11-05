@@ -1,0 +1,11 @@
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\bin\Debug\threading.exe.config
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\bin\Debug\threading.exe
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\bin\Debug\threading.pdb
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\obj\Debug\threading.csprojResolveAssemblyReference.cache
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\obj\Debug\threading.MainForm.resources
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\obj\Debug\threading.Properties.Resources.resources
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\obj\Debug\threading.csproj.GenerateResource.Cache
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\obj\Debug\threading.exe
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\obj\Debug\threading.pdb
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\bin\Debug\library.dll
+C:\Users\is-st\OneDrive\Документы\CSharp\Homework\threading\bin\Debug\library.pdb
